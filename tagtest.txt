@@ -2,3 +2,4 @@ ver.unko
 yagi
 homo
 hashimoto
+yokota
